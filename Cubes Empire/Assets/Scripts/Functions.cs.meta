@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 241750bbb80d1364f8e0f0a1ce350ca8
+timeCreated: 1511738476
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blue: {fileID: 2100000, guid: a3c698c935fa50843ab4fcb14404fb77, type: 2}
+  - red: {fileID: 2100000, guid: e4e84898b3888ae4b8002f4b583edcaf, type: 2}
+  - warrior: {instanceID: 0}
+  - barrack: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
